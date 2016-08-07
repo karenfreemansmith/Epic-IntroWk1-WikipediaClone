@@ -7,3 +7,19 @@
 .oldnav {
   display: inline-block;
 }
+
+#sidenav {
+  width: 175px;
+  height: 100;
+  float: left;
+}
+
+.container {
+  margin-left: 180px;
+  width: auto;
+
+}
+
+li {
+  list-style: none;
+}
