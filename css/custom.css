@@ -4,25 +4,30 @@
   line-height: 1;
 }
 
-.oldnav {
-  display: inline-block;
-}
-
-#sidenav {
-  width: 175px;
-  height: 100;
-  float: left;
+h5 {
+  margin-left: 10px;
+  border-top: solid #ccc 1px;
 }
 
 .container {
-  margin-left: 180px;
-  width: auto;
+  width: 85%;
+  float: right;
 }
 
 .sister {
   margin-left: 50px;
 }
 
-li {
+#sidenav li, .oldnav li {
   list-style: none;
+}
+
+.oldnav {
+  display: inline-block;
+}
+
+#sidenav {
+  width: 175px;
+  float: left;
+  background-color: #eee;
 }
