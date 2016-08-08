@@ -17,7 +17,10 @@
 .container {
   margin-left: 180px;
   width: auto;
+}
 
+.sister {
+  margin-left: 50px;
 }
 
 li {
